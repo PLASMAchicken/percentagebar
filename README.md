@@ -5,7 +5,7 @@
 const percentagebar = require('./src/index.js')
 percentagebar(10, 5); // returns ==> '[▓▓▓▓▓░░░░░] 50%'
 ```
-![Example](/example.png)
+![Example](https://raw.githubusercontent.com/PLASMAchicken/percentagebar/master/example.png)
 
 
 # Documentation
