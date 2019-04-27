@@ -2,10 +2,10 @@
 
 # Example
 ```js
-const percentagebar = require('./src/index.js')
+const percentagebar = require('percentagebar')
 percentagebar(10, 5); // returns ==> '[▓▓▓▓▓░░░░░] 50%'
 ```
-![Example](https://raw.githubusercontent.com/PLASMAchicken/percentagebar/master/example.png)
+![Example](/example.png)
 
 
 # Documentation
